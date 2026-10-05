@@ -1,0 +1,5 @@
+{
+  "name": "no-email",
+  "version": "0.1.0",
+  "description": "Drops the userEmail block from the context Claude Code attaches to a conversation"
+}
